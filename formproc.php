@@ -9,7 +9,7 @@ for($i = 0;$i < count($f["tmp_name"]);$i++)
 		$caricati++;
 	}
 if($caricati > 0)
-	echo "UPLOAD ESEGUITO CON SUCCESSO";
+	echo "{$caricati} file caricati con successo";
 else
 	echo "ERRORE CARICAMENTO FILE";
 	
