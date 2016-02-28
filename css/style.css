@@ -2,3 +2,8 @@
 inserire 
 il proprio stile in questo file
 */
+
+
+input[type=file]{background-color:#337ab7;color:#ffffff;}
+input[type="file"]::-webkit-file-upload-button, button {background:#000022;color:#ffffff;border-color:#808080;border-radius:10px;-webkit-border-radius:10px;cursor:pointer}
+	
