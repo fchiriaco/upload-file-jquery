@@ -11,7 +11,7 @@ $(document).ready(function()
 								url: 'formproc.php',
 								type: 'POST',
 								data: formData,
-								async: false,
+								async: true,
 								cache: false,
 								contentType: false,
 								processData: false,

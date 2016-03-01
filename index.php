@@ -25,7 +25,7 @@
 	<div class="row">
 		<div class="col-xs-12 text-center">
 			<form class="form-inline" id="myform" role="form" >
-				<input class="form-control" type="file" id="userfile" name="userfile[]" multiple="multiple" name="userfile">
+				<input class="form-control" type="file" id="userfile" name="userfile[]" multiple="multiple">
 				<button type="submit" class="btn btn-primary"><span class="glyphicon glyphicon-upload"></span> INVIA FILE AL SERVER</button>
 			</form>
 		</div> <!-- chiudi cols -->
